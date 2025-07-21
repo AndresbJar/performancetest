@@ -82,8 +82,8 @@ proyecto-jmeter-login/
 ├── usuarios.csv
 ├── README_final_0porciento.md
 ├── conclusiones_final.md
-└── resultados/
-    └── summary.jtl
+├── resultados.csv
+├── reporteResumen.jtl
 ```
 
 ---
